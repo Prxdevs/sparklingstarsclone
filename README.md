@@ -1,1 +1,1 @@
-# sparklingstarsclone
+# sparklingstars
